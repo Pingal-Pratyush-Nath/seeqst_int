@@ -1,0 +1,25 @@
+{
+  "n": 5,
+  "m": 2,
+  "observable_type": "exact",
+  "rest_mode": "identity",
+  "l": 2,
+  "l_for_unifsize": 2,
+  "q_tuned": 0.4,
+  "q_untuned": 0.16666666666666666,
+  "num_observables": 4,
+  "n_samples": [
+    10,
+    50,
+    200
+  ],
+  "num_state_repeats": 1,
+  "num_observable_repeats": 1,
+  "states": [
+    "haar_random"
+  ],
+  "seed": 0,
+  "version": "quicktest_identity",
+  "elapsed_seconds": 0.6,
+  "num_raw_rows": 18
+}

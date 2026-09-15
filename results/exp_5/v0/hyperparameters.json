@@ -1,0 +1,30 @@
+{
+  "n": 4,
+  "w": 1.0,
+  "m": 0.9,
+  "g": 1.0,
+  "n_samples": [
+    10,
+    50,
+    200,
+    800
+  ],
+  "num_repeats": 2,
+  "state_types": [
+    "ground_state",
+    "neel"
+  ],
+  "seed": 0,
+  "version": "v0",
+  "elapsed_seconds": 22.2,
+  "num_raw_term_rows": 144,
+  "num_raw_energy_rows": 48,
+  "hamiltonian_num_terms": 13,
+  "hamiltonian_term_group_counts": {
+    "z_single": 4,
+    "zz_long_range": 3,
+    "hopping": 6
+  },
+  "hamiltonian_identity_offset": 2.0,
+  "hamiltonian_ground_energy": -2.669286097847985
+}

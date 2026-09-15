@@ -1,0 +1,24 @@
+{
+  "n": 7,
+  "l": 4,
+  "q_binomial": 0.125,
+  "num_observables": 100,
+  "n_samples": [
+    10,
+    100,
+    500,
+    1000,
+    5000,
+    10000,
+    25000
+  ],
+  "num_state_repeats": 3,
+  "num_observable_repeats": 100,
+  "states": [
+    "haar_random"
+  ],
+  "seed": 0,
+  "version": "v0",
+  "elapsed_seconds": 41424.1,
+  "num_raw_rows": 10500
+}

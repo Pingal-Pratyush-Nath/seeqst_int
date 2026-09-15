@@ -1,0 +1,25 @@
+{
+  "n": 5,
+  "m": 3,
+  "observable_type": "exact",
+  "rest_mode": "random",
+  "l": 3,
+  "l_for_unifsize": 3,
+  "q_tuned": 0.6,
+  "q_untuned": 0.16666666666666666,
+  "num_observables": 5,
+  "n_samples": [
+    10,
+    50,
+    200
+  ],
+  "num_state_repeats": 1,
+  "num_observable_repeats": 1,
+  "states": [
+    "haar_random"
+  ],
+  "seed": 0,
+  "version": "minitest_m3",
+  "elapsed_seconds": 0.7,
+  "num_raw_rows": 18
+}

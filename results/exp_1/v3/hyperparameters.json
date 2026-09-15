@@ -1,0 +1,22 @@
+{
+  "n": 4,
+  "num_observables": 5,
+  "n_samples": [
+    10,
+    50,
+    200,
+    800
+  ],
+  "num_state_repeats": 2,
+  "num_observable_repeats": 2,
+  "k": null,
+  "states": [
+    "haar_random",
+    "ghz",
+    "random_stabilizer"
+  ],
+  "seed": 0,
+  "version": "v3",
+  "elapsed_seconds": 9.7,
+  "num_raw_rows": 144
+}

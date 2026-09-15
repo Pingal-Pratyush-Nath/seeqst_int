@@ -1,0 +1,40 @@
+{
+  "n": 10,
+  "hopping": 0.0,
+  "mu": 0.0,
+  "delta": 1.0,
+  "alpha": 0.0,
+  "q_values": [
+    0.0909090909,
+    0.5
+  ],
+  "q_tuned": 0.19999999603972124,
+  "estimator": "mean",
+  "mom_num_groups": 1,
+  "mom_delta": 0.1,
+  "n_samples": [
+    10,
+    30,
+    100,
+    300,
+    1000,
+    3000,
+    10000,
+    20000,
+    30000,
+    40000,
+    50000,
+    60000,
+    70000,
+    80000,
+    90000,
+    100000
+  ],
+  "num_repeats": 20,
+  "seed": 0,
+  "version": "13_20_mean",
+  "elapsed_seconds": 44618.3,
+  "num_raw_rows": 1920,
+  "e_true": -4.972135954999577,
+  "num_pauli_terms": 90
+}

@@ -1,0 +1,35 @@
+{
+  "n": 9,
+  "m": 2,
+  "num_terms": 5,
+  "min_xy": 1,
+  "rest_mode": "z",
+  "coeff_dist": "normal",
+  "q_tuned": 0.2222222222222222,
+  "q_tuned_is_minimax_optimal_full_basis": true,
+  "q_untuned": 0.1,
+  "estimator": "mean",
+  "mom_num_groups": 1,
+  "mom_delta": 0.1,
+  "num_observables": 10,
+  "n_samples": [
+    10,
+    30,
+    100,
+    300,
+    1000,
+    3000,
+    10000
+  ],
+  "num_state_repeats": 3,
+  "num_observable_repeats": 3,
+  "states": [
+    "haar_random",
+    "ghz",
+    "random_stabilizer"
+  ],
+  "seed": 0,
+  "version": "v4",
+  "elapsed_seconds": 1357.9,
+  "num_raw_rows": 945
+}

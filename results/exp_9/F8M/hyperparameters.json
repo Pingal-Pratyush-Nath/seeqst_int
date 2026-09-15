@@ -1,0 +1,33 @@
+{
+  "n": 10,
+  "m": 8,
+  "rest_mode": "z",
+  "q_tuned": 0.8,
+  "estimator": "mean",
+  "mom_num_groups": 1,
+  "mom_delta": 0.1,
+  "num_observables": 100,
+  "n_samples": [
+    10,
+    30,
+    100,
+    300,
+    1000,
+    3000,
+    5000,
+    10000,
+    15000,
+    20000,
+    25000,
+    30000
+  ],
+  "num_state_repeats": 20,
+  "num_observable_repeats": 20,
+  "states": [
+    "haar_random"
+  ],
+  "seed": 0,
+  "version": "F8m",
+  "elapsed_seconds": 93129.5,
+  "num_raw_rows": 19200
+}

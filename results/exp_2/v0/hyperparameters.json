@@ -1,0 +1,30 @@
+{
+  "n": 10,
+  "num_observables": 100,
+  "n_samples": [
+    10,
+    30,
+    100,
+    300,
+    1000,
+    3000,
+    10000,
+    20000,
+    30000,
+    40000,
+    50000
+  ],
+  "num_state_repeats": 10,
+  "num_observable_repeats": 10,
+  "k": null,
+  "states": [
+    "haar_random",
+    "ghz",
+    "random_stabilizer"
+  ],
+  "seed": 0,
+  "version": "v0",
+  "include_random_seeqst": true,
+  "elapsed_seconds": 28304.1,
+  "num_raw_rows": 6600
+}

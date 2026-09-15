@@ -1,0 +1,38 @@
+{
+  "n": 10,
+  "hopping": 0.0,
+  "mu": 0.0,
+  "delta": 1.0,
+  "alpha": 0.0,
+  "q_values": [
+    0.0909090909,
+    0.5
+  ],
+  "q_tuned": 0.19999999603972124,
+  "estimator": "mean",
+  "mom_num_groups": 1,
+  "mom_delta": 0.1,
+  "n_samples": [
+    10,
+    30,
+    100,
+    300,
+    1000,
+    2000,
+    3000,
+    4000,
+    5000,
+    6000,
+    7000,
+    8000,
+    9000,
+    10000
+  ],
+  "num_repeats": 50,
+  "seed": 0,
+  "version": "v1",
+  "elapsed_seconds": 5682.7,
+  "num_raw_rows": 4200,
+  "e_true": -4.972135954999581,
+  "num_pauli_terms": 90
+}

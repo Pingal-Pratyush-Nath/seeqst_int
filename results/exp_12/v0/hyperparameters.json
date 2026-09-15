@@ -1,0 +1,27 @@
+{
+  "n": 6,
+  "integrals": "demo",
+  "q_values": [
+    0.6666666667,
+    0.3333333333
+  ],
+  "estimator": "mean",
+  "mom_num_groups": 1,
+  "mom_delta": 0.1,
+  "n_samples": [
+    10,
+    30,
+    100,
+    300,
+    1000,
+    3000,
+    10000
+  ],
+  "num_repeats": 20,
+  "seed": 0,
+  "version": "v0",
+  "elapsed_seconds": 802.0,
+  "num_raw_rows": 700,
+  "e_true": -4.071844782275483,
+  "num_pauli_terms": 22
+}

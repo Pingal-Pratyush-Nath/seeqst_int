@@ -1,0 +1,29 @@
+{
+  "n": 6,
+  "m": 5,
+  "rest_mode": "random",
+  "q_tuned": 0.8333333333333334,
+  "estimator": "mean",
+  "mom_num_groups": 1,
+  "mom_delta": 0.1,
+  "num_observables": 50,
+  "n_samples": [
+    100,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    5000,
+    6000
+  ],
+  "num_state_repeats": 10,
+  "num_observable_repeats": 50,
+  "states": [
+    "haar_random"
+  ],
+  "seed": 0,
+  "version": "v0",
+  "elapsed_seconds": 7970.6,
+  "num_raw_rows": 16000
+}

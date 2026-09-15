@@ -1,0 +1,30 @@
+{
+  "n": 6,
+  "m": 3,
+  "observable_type": "exact",
+  "rest_mode": "random",
+  "l": 3,
+  "l_for_unifsize": 3,
+  "q_tuned": 0.5,
+  "q_untuned": 0.14285714285714285,
+  "num_observables": 10,
+  "n_samples": [
+    10,
+    30,
+    100,
+    300,
+    1000,
+    3000
+  ],
+  "num_state_repeats": 2,
+  "num_observable_repeats": 3,
+  "states": [
+    "haar_random",
+    "ghz",
+    "random_stabilizer"
+  ],
+  "seed": 0,
+  "version": "v2",
+  "elapsed_seconds": 114.0,
+  "num_raw_rows": 648
+}
